@@ -8,7 +8,7 @@ edX E-Commerce Service  |Travis|_ |Codecov|_
 
 This repository contains the edX E-Commerce Service, which relies heavily on `django-oscar <https://django-oscar.readthedocs.org/en/latest/>`_, as well as all frontend and backend code used to manage edX's product catalog and handle orders for those products.
 
-Documentation
+Documentation--noted
 -------------
 
 `Documentation <https://edx-ecommerce.readthedocs.io/en/latest/>`_ is hosted on Read the Docs. The source is hosted in this repo's `docs <https://github.com/edx/ecommerce/tree/master/docs>`_ directory. To contribute, please open a PR against this repo.
@@ -25,12 +25,12 @@ How To Contribute
 
 Contributions are welcome. Please read `How To Contribute <https://github.com/edx/edx-platform/blob/master/CONTRIBUTING.rst>`_ for details. Even though it was written with ``edx-platform`` in mind, these guidelines should be followed for Open edX code in general.
 
-Reporting Security Issues
+Reporting Security Issues  hhh
 -------------------------
 
 Please do not report security issues in public. Please email security@edx.org.
 
-Get Help
+Get Help...
 --------
 
 Ask questions and discuss this project on `Slack <https://openedx.slack.com/messages/ecommerce/>`_ or in the `edx-code Google Group <https://groups.google.com/forum/#!forum/edx-code>`_.
